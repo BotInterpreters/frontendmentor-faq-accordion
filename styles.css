@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    display: b;
 }
 
 body {
@@ -35,8 +36,6 @@ h1 {
 
 .attribute-container {
     text-align: center;
-    margin-top: 450px;
-    /* margin-bottom: 50px; */
 }
 
 .faq-list {
@@ -62,6 +61,7 @@ h1 {
         font-weight: 300;
         color: hsl(292, 16%, 49%);
         margin-top: 1rem;
+        display: none;
     }
 }
 
